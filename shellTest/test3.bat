@@ -1,5 +1,5 @@
 
 
-set /p a= "Input a number:"
+set  a= "Input a number:"
 
 echo %a%
